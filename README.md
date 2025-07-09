@@ -81,4 +81,4 @@ O servidor estará disponível em `http://localhost:3333`.
 
 ---
 
-Projeto desenvolvido durante o evento NLW da Rocketseat.
+Desenvolvido com 💜 durante o NLW Agents da [Rocketseat](https://rocketseat.com.br)
