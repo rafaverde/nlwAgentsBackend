@@ -15,6 +15,20 @@
       "when": 1752065348275,
       "tag": "0001_curious_makkari",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752158190657,
+      "tag": "0002_adorable_kulan_gath",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1752169821326,
+      "tag": "0003_naive_arachne",
+      "breakpoints": true
     }
   ]
 }
